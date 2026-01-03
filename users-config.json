@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "email": "lam752499@gmail.com",
+      "username": "lam752499",
+      "credentials": {
+        "password": "SecurePass123!",
+        "lastUpdated": "2026-01-03T21:14:40.000Z"
+      },
+      "status": "active",
+      "created": "2026-01-03T21:14:40.000Z"
+    },
+    {
+      "email": "wsx7524999@outloom.com",
+      "username": "wsx7524999",
+      "credentials": {
+        "password": "SecurePass456!",
+        "lastUpdated": "2026-01-03T21:14:40.000Z"
+      },
+      "status": "active",
+      "created": "2026-01-03T21:14:40.000Z"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "description": "User configuration for WebAuthn project",
+    "created": "2026-01-03T21:14:40.000Z"
+  }
+}
