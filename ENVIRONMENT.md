@@ -8,13 +8,13 @@ This environment provides configuration and credentials for testing user authent
 ### User 1
 - **Email**: lam752499@gmail.com
 - **Username**: lam752499
-- **Password**: SecurePass123!
+- **Password**: PLACEHOLDER_PASSWORD_1 (Replace with actual password)
 - **Status**: Active
 
 ### User 2
 - **Email**: wsx7524999@outloom.com
 - **Username**: wsx7524999
-- **Password**: SecurePass456!
+- **Password**: PLACEHOLDER_PASSWORD_2 (Replace with actual password)
 - **Status**: Active
 
 ## Configuration Files
@@ -39,11 +39,11 @@ For production use, set the following environment variables:
 ```bash
 export WEBAUTHN_USER_1_EMAIL=lam752499@gmail.com
 export WEBAUTHN_USER_1_USERNAME=lam752499
-export WEBAUTHN_USER_1_PASSWORD=SecurePass123!
+export WEBAUTHN_USER_1_PASSWORD=<your-secure-password-here>
 
 export WEBAUTHN_USER_2_EMAIL=wsx7524999@outloom.com
 export WEBAUTHN_USER_2_USERNAME=wsx7524999
-export WEBAUTHN_USER_2_PASSWORD=SecurePass456!
+export WEBAUTHN_USER_2_PASSWORD=<your-secure-password-here>
 ```
 
 ## Security Notes

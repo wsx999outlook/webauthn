@@ -58,14 +58,14 @@ This document summarizes the implementation of email addresses and login credent
 ### User 1
 - **Email**: lam752499@gmail.com
 - **Username**: lam752499
-- **Password**: SecurePass123!
+- **Password**: PLACEHOLDER_PASSWORD_1 (Replace with actual password)
 - **Status**: active
 - **Created**: 2026-01-03T21:14:40.000Z
 
 ### User 2
 - **Email**: wsx7524999@outloom.com
 - **Username**: wsx7524999
-- **Password**: SecurePass456!
+- **Password**: PLACEHOLDER_PASSWORD_2 (Replace with actual password)
 - **Status**: active
 - **Created**: 2026-01-03T21:14:40.000Z
 
